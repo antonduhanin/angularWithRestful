@@ -1,4 +1,0 @@
-com\core\services\BlogEntryService.class
-com\rest\resources\asm\BlogEntryResourcesAsm.class
-com\rest\resources\BlogEntryResource.class
-com\rest\core\entities\BlogEntry.class

@@ -1,4 +1,4 @@
-com\mvc\TestController.class
-com\Calculator.class
-com\Car.class
-com\Engine.class
+com\core\services\BlogEntryService.class
+com\rest\resources\asm\BlogEntryResourcesAsm.class
+com\rest\resources\BlogEntryResource.class
+com\rest\core\entities\BlogEntry.class
